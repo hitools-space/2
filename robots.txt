@@ -1,0 +1,6 @@
+User-agent: *
+User-agent: GoogleBot
+Disallow: /*?u_src=*
+Disallow: /cdn-cgi/*
+Allow: /
+Sitemap: https://hitools.space/sitemap.xml
