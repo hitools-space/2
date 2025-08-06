@@ -3,7 +3,7 @@ import math
 from xml.etree.ElementTree import Element, SubElement, ElementTree
 
 # Base domain
-BASE_DOMAIN = 'https://hitools.space'
+BASE_DOMAIN = 'https://ca.hitools.space'
 # Max URLs per sitemap file
 MAX_URLS_PER_SITEMAP = 500
 # Output folder for sitemaps
